@@ -5,4 +5,7 @@ echo ${ary[2]}
 echo ${ary[3]}
 echo ${ary[@]}
 
-echo ${#ary}
+echo ${#ary[@]}
+echo ${#ary[*]}
+
+echo ${#ary[0]}
