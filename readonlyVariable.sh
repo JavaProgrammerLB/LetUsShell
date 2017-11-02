@@ -1,0 +1,2 @@
+name="liubei"
+readonly name
